@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+.box{
+   
+    width:50%;
+    height: auto;
+    display: inline-block;
+    margin-top: 40px;
+    }
+
+.horizontalBox{
+    width: 90%;
+    height: 150px;
+    margin: auto;
+}
+
+.similarBox{
+   
+    width: 150px;
+    height: 150px;
+    background-color: green;
+  
+    }
+.box1{
+    float: left;
+}
+
+.box2{
+    float:right;
+}
+.middleBox{
+    margin:auto;
+}
+    
