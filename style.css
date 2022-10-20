@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    width: 100%;
+}
+
+.containeer{
+    width: 40%;
+    margin: 0 auto;
+    
+}
+
+.wrapper{
+    width: 100%;
+    height:40em;
+    border: 2px solid black;
+    background-color: rgb(193, 170, 170);
+ 
+}
+.circle{
+    width: 5em;
+    height: 5em;
+    border-radius: 50%;
+    margin: 0 auto;
+    background-color: rgb(16, 232, 160);
+    position: relative;
+    
+
+}
